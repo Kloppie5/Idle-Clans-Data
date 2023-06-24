@@ -1,0 +1,244 @@
+{
+	"_id": {
+		"$oid": "6044eb02fbd98f66a334d942"
+	},
+	"Items": [
+		{
+			"Name": "piranha",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "5250.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "11.25"
+			},
+			"ItemReward": {
+				"$numberInt": "159"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "perch",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "18.75"
+			},
+			"ItemReward": {
+				"$numberInt": "4"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "mackerel",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "23.25"
+			},
+			"ItemReward": {
+				"$numberInt": "12"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "cod",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "12000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.25"
+			},
+			"ItemReward": {
+				"$numberInt": "163"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "trout",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "29.0"
+			},
+			"ItemReward": {
+				"$numberInt": "13"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "salmon",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "13500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "45.0"
+			},
+			"ItemReward": {
+				"$numberInt": "14"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "carp",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "9500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "33.0"
+			},
+			"ItemReward": {
+				"$numberInt": "15"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "zander",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "15000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "54.0"
+			},
+			"ItemReward": {
+				"$numberInt": "157"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "pufferfish",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "18750.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "69.0"
+			},
+			"ItemReward": {
+				"$numberInt": "161"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "10"
+			},
+			"Name": "anglerfish",
+			"Skill": {
+				"$numberInt": "10"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "30000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "123.0"
+			},
+			"ItemReward": {
+				"$numberInt": "155"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		}
+	]
+}

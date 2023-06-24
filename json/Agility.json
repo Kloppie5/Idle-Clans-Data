@@ -1,0 +1,172 @@
+{
+	"_id": {
+		"$oid": "628878cbacd7444ac8b263e1"
+	},
+	"Items": [
+		{
+			"Name": "jogging_course",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "swimming",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "monkey_bars",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "8500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "55.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "strength_training",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "9500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "basic_obstacle_course",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "11000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "90.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "combat_training",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "12500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "105.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "military_obstacle_course",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "13000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "120.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "rock_climbing",
+			"Skill": {
+				"$numberInt": "16"
+			},
+			"LevelRequirement": {
+				"$numberInt": "90"
+			},
+			"BaseTime": {
+				"$numberDouble": "15000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "160.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			}
+		}
+	]
+}

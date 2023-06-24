@@ -1,0 +1,133 @@
+{
+	"_id": {
+		"$oid": "63636307dc1854b598540a55"
+	},
+	"Items": [
+		{
+			"PotionType": {
+				"$numberInt": "1"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "10"
+			},
+			"Duration": {
+				"$numberInt": "601"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "1"
+			},
+			"PotionType": {
+				"$numberInt": "2"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "5"
+			},
+			"Duration": {
+				"$numberInt": "300"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "2"
+			},
+			"PotionType": {
+				"$numberInt": "3"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "40"
+			},
+			"Duration": {
+				"$numberInt": "600"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "3"
+			},
+			"PotionType": {
+				"$numberInt": "4"
+			},
+			"ChanceOfTriggeringEffect": {
+				"$numberInt": "10"
+			},
+			"Duration": {
+				"$numberInt": "180"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "4"
+			},
+			"PotionType": {
+				"$numberInt": "5"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "10"
+			},
+			"Duration": {
+				"$numberInt": "600"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "5"
+			},
+			"PotionType": {
+				"$numberInt": "6"
+			},
+			"ChanceOfTriggeringEffect": {
+				"$numberInt": "15"
+			},
+			"Duration": {
+				"$numberInt": "900"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "6"
+			},
+			"PotionType": {
+				"$numberInt": "7"
+			},
+			"ChanceOfTriggeringEffect": {
+				"$numberInt": "25"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "105"
+			},
+			"Duration": {
+				"$numberInt": "600"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "7"
+			},
+			"PotionType": {
+				"$numberInt": "8"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "20"
+			},
+			"Duration": {
+				"$numberInt": "600"
+			}
+		},
+		{
+			"PotionId": {
+				"$numberInt": "8"
+			},
+			"PotionType": {
+				"$numberInt": "9"
+			},
+			"EffectStrengthPercentage": {
+				"$numberInt": "50"
+			},
+			"Duration": {
+				"$numberInt": "600"
+			}
+		}
+	]
+}

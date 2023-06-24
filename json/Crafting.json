@@ -1,0 +1,1071 @@
+{
+	"_id": {
+		"$oid": "61e1cf9c6a01a4c098e40696"
+	},
+	"Items": [
+		{
+			"Name": "refined_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"ExpReward": {
+				"$numberDouble": "1000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "225"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "225"
+			},
+			"WeaponType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "great_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"ExpReward": {
+				"$numberDouble": "2000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "226"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "226"
+			},
+			"WeaponType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "elite_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"ExpReward": {
+				"$numberDouble": "5000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "227"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "227"
+			},
+			"WeaponType": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "superior_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"ExpReward": {
+				"$numberDouble": "10000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "228"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "228"
+			},
+			"WeaponType": {
+				"$numberInt": "5"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "outstanding_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"ExpReward": {
+				"$numberDouble": "25000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "229"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "229"
+			},
+			"WeaponType": {
+				"$numberInt": "6"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "godlike_weapon",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"ExpReward": {
+				"$numberDouble": "50000.0"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "230"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			],
+			"CustomIconId": {
+				"$numberInt": "230"
+			},
+			"WeaponType": {
+				"$numberInt": "7"
+			}
+		}
+	],
+	"CustomId": "crafting_weapon",
+	"SortOrder": {
+		"$numberInt": "0"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e2b1b06988bf1344ca1fae"
+	},
+	"Items": [
+		{
+			"Name": "bronze_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "20.0"
+			},
+			"ItemReward": {
+				"$numberInt": "260"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "iron_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "25.0"
+			},
+			"ItemReward": {
+				"$numberInt": "261"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "1"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "steel_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "262"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "6"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "platinum_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "263"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "7"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "meteorite_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "264"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "8"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "titanium_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "265"
+			},
+			"ItemAmount": {
+				"$numberInt": "10"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "46"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "9"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "astronomical_arrow",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "80.0"
+			},
+			"ItemReward": {
+				"$numberInt": "266"
+			},
+			"ItemAmount": {
+				"$numberInt": "1000"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "48"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "10"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "crafting_ammunition",
+	"SortOrder": {
+		"$numberInt": "2"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e1d0af6988bf1344ca1fad"
+	},
+	"Items": [
+		{
+			"Name": "leather_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "258"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "245"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "leather_coat",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "259"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "245"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "orange_leather_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "55.0"
+			},
+			"ItemReward": {
+				"$numberInt": "250"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "246"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "orange_leather_coat",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "65.0"
+			},
+			"ItemReward": {
+				"$numberInt": "251"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "246"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "green_leather_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "85.0"
+			},
+			"ItemReward": {
+				"$numberInt": "252"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "247"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "green_leather_coat",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "100.0"
+			},
+			"ItemReward": {
+				"$numberInt": "253"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "247"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "red_leather_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "110.0"
+			},
+			"ItemReward": {
+				"$numberInt": "254"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "248"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "red_leather_coat",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "125.0"
+			},
+			"ItemReward": {
+				"$numberInt": "255"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "248"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "black_leather_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "150.0"
+			},
+			"ItemReward": {
+				"$numberInt": "256"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "249"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "black_leather_coat",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "185.0"
+			},
+			"ItemReward": {
+				"$numberInt": "257"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "249"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "crafting_leather",
+	"SortOrder": {
+		"$numberInt": "1"
+	}
+}
+{
+	"_id": {
+		"$oid": "62789d6c54bf241984bfeb32"
+	},
+	"Items": [
+		{
+			"Name": "magical_robe",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "55.0"
+			},
+			"ItemReward": {
+				"$numberInt": "276"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "273"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "magical_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "48.0"
+			},
+			"ItemReward": {
+				"$numberInt": "277"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "273"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "enchanted_robe",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "278"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "274"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "enchanted_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "65.0"
+			},
+			"ItemReward": {
+				"$numberInt": "279"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "274"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "cursed_robe",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "125.0"
+			},
+			"ItemReward": {
+				"$numberInt": "280"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "275"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "cursed_trousers",
+			"Skill": {
+				"$numberInt": "7"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "110.0"
+			},
+			"ItemReward": {
+				"$numberInt": "281"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "275"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "crafting_fabric",
+	"SortOrder": {
+		"$numberInt": "3"
+	}
+}

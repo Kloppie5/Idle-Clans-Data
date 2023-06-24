@@ -1,0 +1,1537 @@
+{
+	"_id": {
+		"$oid": "6288875dacd7444ac8b263e4"
+	},
+	"Items": [
+		{
+			"Name": "small_village",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "32500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "120.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "54"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "333"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "45"
+					},
+					"Weight": {
+						"$numberDouble": "75.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "165"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "4"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "6"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "160"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "7"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "533"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "30"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "fishing_town",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "35000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "150.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "284"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "16"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "50"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "4"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "8"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "163"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "102"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "164"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "25"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "mining_community",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "37500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "180.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"LevelCap": {
+						"$numberInt": "70"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "53"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "28"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "29"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "30"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "31"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "10"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "34"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "8"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "35"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "20"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "farm",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "40000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "225.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "15"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "285"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "286"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "40"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "155"
+					},
+					"Weight": {
+						"$numberDouble": "40.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "118"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "4"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "138"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "126"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "132"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "133"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "10"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "15"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "small_city",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "45000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "290.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "7"
+					},
+					"LevelCap": {
+						"$numberInt": "80"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "287"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "290"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "334"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "80"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "149"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "154"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "231"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "238"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "260"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "55"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "56"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "57"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "58"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "61"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "62"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "63"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "64"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "10"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "sports_center",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "47500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "360.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "80"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "450"
+					},
+					"Weight": {
+						"$numberDouble": "60.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "552"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "126"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "7"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "woodworking_factory",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "50000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "400.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "90"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"LevelCap": {
+						"$numberInt": "90"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "288"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "40.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "6"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "7"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "20"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "4"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "21"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "23"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "10"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "food_factory",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "55000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "500.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "95"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "11"
+					},
+					"LevelCap": {
+						"$numberInt": "95"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "289"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "600"
+					},
+					"Weight": {
+						"$numberDouble": "42.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "163"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "14"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "6"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "156"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "164"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "105"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "4"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "158"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "9"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "141"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "143"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "145"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "146"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "5"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "royal_clan",
+			"Skill": {
+				"$numberInt": "17"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "60000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "750.0"
+			},
+			"ItemReward": {
+				"$numberInt": "-1"
+			},
+			"SkillAdvantages": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "7"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"LevelCap": {
+						"$numberInt": "100"
+					}
+				}
+			],
+			"PlunderingLoot": [
+				{
+					"ItemId": {
+						"$numberInt": "335"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2000"
+					},
+					"Weight": {
+						"$numberDouble": "79.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "32"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "33"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "37"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "50"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "38"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "50"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "540"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			],
+			"BaseSuccessChancePercentage": {
+				"$numberInt": "5"
+			}
+		}
+	]
+}

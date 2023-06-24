@@ -1,0 +1,454 @@
+{
+	"_id": {
+		"$oid": "635f6aff52af4624fc4b69c9"
+	},
+	"Items": [
+		{
+			"Name": "potion_of_swiftness",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "55000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "750.0"
+			},
+			"ItemReward": {
+				"$numberInt": "408"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "134"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "118"
+					},
+					"Amount": {
+						"$numberInt": "5"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "1"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "potion_of_negotiation",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "65000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1045.0"
+			},
+			"ItemReward": {
+				"$numberInt": "409"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "134"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "273"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "6"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "potion_of_resurrection",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "72500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1215.0"
+			},
+			"ItemReward": {
+				"$numberInt": "410"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "135"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "274"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "2"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "potion_of_forgery",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "45"
+			},
+			"BaseTime": {
+				"$numberDouble": "85000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1515.0"
+			},
+			"ItemReward": {
+				"$numberInt": "411"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "136"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "274"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "9"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "potion_of_great_sight",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "97500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1950.0"
+			},
+			"ItemReward": {
+				"$numberInt": "412"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "137"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "273"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "8"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "potion_of_trickery",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "65"
+			},
+			"BaseTime": {
+				"$numberDouble": "115000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "2445.0"
+			},
+			"ItemReward": {
+				"$numberInt": "413"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "401"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "125"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "10"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "potion_of_dark_magic",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "132500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "2950.0"
+			},
+			"ItemReward": {
+				"$numberInt": "414"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "403"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "275"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "406"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "potion_of_pure_power",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "155000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "3750.0"
+			},
+			"ItemReward": {
+				"$numberInt": "415"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "403"
+					},
+					"Amount": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "399"
+					},
+					"Amount": {
+						"$numberInt": "20"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "407"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "potion_of_ancient_knowledge",
+			"Skill": {
+				"$numberInt": "19"
+			},
+			"LevelRequirement": {
+				"$numberInt": "93"
+			},
+			"BaseTime": {
+				"$numberDouble": "180000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "5025.0"
+			},
+			"ItemReward": {
+				"$numberInt": "416"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "405"
+					},
+					"Amount": {
+						"$numberInt": "20"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "399"
+					},
+					"Amount": {
+						"$numberInt": "50"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "407"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				}
+			]
+		}
+	]
+}

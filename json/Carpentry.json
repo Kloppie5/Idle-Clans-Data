@@ -1,0 +1,337 @@
+{
+	"_id": {
+		"$oid": "61b35b71f23f4cb57e96b48d"
+	},
+	"Items": [
+		{
+			"Name": "spruce_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "20"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "50"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "pine_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "45.0"
+			},
+			"ItemReward": {
+				"$numberInt": "21"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "1"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "60"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "oak_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "23"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "6"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "70"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "maple_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "55.0"
+			},
+			"ItemReward": {
+				"$numberInt": "24"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "7"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "80"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "teak_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "25"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "8"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "90"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "chestnut_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "22"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "2"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "100"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "mahogany_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "80.0"
+			},
+			"ItemReward": {
+				"$numberInt": "26"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "9"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "110"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "yew_plank",
+			"Skill": {
+				"$numberInt": "9"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "95.0"
+			},
+			"ItemReward": {
+				"$numberInt": "27"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "10"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "125"
+					}
+				}
+			]
+		}
+	]
+}

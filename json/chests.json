@@ -1,0 +1,1224 @@
+{
+	"_id": {
+		"$oid": "62da58c1c97de3397dee66f8"
+	},
+	"Items": [
+		{
+			"Name": "common_chest",
+			"ChestItemId": {
+				"$numberInt": "381"
+			},
+			"BaseLootChance": {
+				"$numberInt": "150"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "347"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "348"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "349"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "351"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "352"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "353"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "354"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "355"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "431"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "433"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "434"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "435"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "436"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "437"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "390"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "126"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "8"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "5"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "600"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "900"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "164"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "175"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "163"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "35"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1200"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "36"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1000"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "20"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "21"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "650"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "384"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "386"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15000"
+					},
+					"Weight": {
+						"$numberDouble": "20.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "429"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "432"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "547"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"Name": "rare_chest",
+			"ChestItemId": {
+				"$numberInt": "382"
+			},
+			"BaseLootChance": {
+				"$numberInt": "30"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "356"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "357"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "358"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "359"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "360"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "361"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "362"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "363"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "364"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "438"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "440"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "441"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "442"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "443"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "444"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "3"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "12"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "8"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "105"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "600"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "14"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "900"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "106"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "175"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "15"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "36"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1200"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "43"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "21"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "22"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "650"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "385"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "387"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "50000"
+					},
+					"Weight": {
+						"$numberDouble": "19.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "430"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "439"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "548"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"Name": "exceptional_chest",
+			"ChestItemId": {
+				"$numberInt": "383"
+			},
+			"BaseLootChance": {
+				"$numberInt": "5"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "365"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "366"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "367"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "368"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "369"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "370"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "371"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "372"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "373"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "445"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "447"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "448"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "449"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "450"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "451"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "22"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "20"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "6"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "18"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "162"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "900"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "156"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "900"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1200"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "43"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "300"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1200"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "23"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1400"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "24"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1200"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "388"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "389"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "0.01"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500000"
+					},
+					"Weight": {
+						"$numberDouble": "20.99"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "380"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "446"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "549"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		}
+	]
+}

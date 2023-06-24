@@ -1,0 +1,607 @@
+{
+	"_id": {
+		"$oid": "624014482729405d901303dd"
+	},
+	"Items": [
+		{
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierNameLocKeys": [
+				"cardboard_box",
+				"tent",
+				"van_down_by_the_river",
+				"small_cabin",
+				"house"
+			],
+			"TierDescriptionLocKeys": [
+				"cardboard_box_description",
+				"tent_description",
+				"van_down_by_the_river_description",
+				"small_cabin_description",
+				"house_description"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "5"
+				},
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "15"
+				},
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "25"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "100000"
+				},
+				{
+					"$numberInt": "500000"
+				},
+				{
+					"$numberInt": "2500000"
+				},
+				{
+					"$numberInt": "10000000"
+				},
+				{
+					"$numberInt": "25000000"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						},
+						{
+							"$numberInt": "50"
+						},
+						{
+							"$numberInt": "70"
+						},
+						{
+							"$numberInt": "80"
+						},
+						{
+							"$numberInt": "90"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "20"
+						},
+						{
+							"$numberInt": "40"
+						},
+						{
+							"$numberInt": "60"
+						},
+						{
+							"$numberInt": "70"
+						},
+						{
+							"$numberInt": "80"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "1"
+			},
+			"CanPurchaseInBulk": true,
+			"Costs": [
+				{
+					"$numberInt": "5000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "2"
+			},
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "40"
+				},
+				{
+					"$numberInt": "60"
+				},
+				{
+					"$numberInt": "80"
+				},
+				{
+					"$numberInt": "100"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "100000"
+				},
+				{
+					"$numberInt": "250000"
+				},
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "5000000"
+				},
+				{
+					"$numberInt": "20000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "3"
+			},
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "40"
+				},
+				{
+					"$numberInt": "60"
+				},
+				{
+					"$numberInt": "80"
+				},
+				{
+					"$numberInt": "100"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "100000"
+				},
+				{
+					"$numberInt": "250000"
+				},
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "5000000"
+				},
+				{
+					"$numberInt": "20000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "4"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"$numberInt": "100000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "5"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"$numberInt": "250000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "6"
+			},
+			"Tiers": {
+				"$numberInt": "6"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "1"
+				},
+				{
+					"$numberInt": "2"
+				},
+				{
+					"$numberInt": "3"
+				},
+				{
+					"$numberInt": "4"
+				},
+				{
+					"$numberInt": "5"
+				},
+				{
+					"$numberInt": "6"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "200000"
+				},
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "3000000"
+				},
+				{
+					"$numberInt": "5000000"
+				},
+				{
+					"$numberInt": "10000000"
+				},
+				{
+					"$numberInt": "25000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "7"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"$numberInt": "50000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "8"
+			},
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "30"
+				},
+				{
+					"$numberInt": "40"
+				},
+				{
+					"$numberInt": "50"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "250000"
+				},
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "3000000"
+				},
+				{
+					"$numberInt": "10000000"
+				},
+				{
+					"$numberInt": "25000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "9"
+			},
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "30"
+				},
+				{
+					"$numberInt": "40"
+				},
+				{
+					"$numberInt": "50"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "200000"
+				},
+				{
+					"$numberInt": "600000"
+				},
+				{
+					"$numberInt": "1500000"
+				},
+				{
+					"$numberInt": "5000000"
+				},
+				{
+					"$numberInt": "10000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "10"
+			},
+			"Tiers": {
+				"$numberInt": "3"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "30"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "750000"
+				},
+				{
+					"$numberInt": "2500000"
+				},
+				{
+					"$numberInt": "10000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "11"
+			},
+			"Tiers": {
+				"$numberInt": "5"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "20"
+				},
+				{
+					"$numberInt": "30"
+				},
+				{
+					"$numberInt": "40"
+				},
+				{
+					"$numberInt": "50"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "2000000"
+				},
+				{
+					"$numberInt": "4000000"
+				},
+				{
+					"$numberInt": "7500000"
+				},
+				{
+					"$numberInt": "10000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "12"
+			},
+			"Tiers": {
+				"$numberInt": "3"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "30"
+				},
+				{
+					"$numberInt": "60"
+				},
+				{
+					"$numberInt": "100"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "500000"
+				},
+				{
+					"$numberInt": "1000000"
+				},
+				{
+					"$numberInt": "2000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "13"
+			},
+			"Tiers": {
+				"$numberInt": "6"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "15"
+				},
+				{
+					"$numberInt": "30"
+				},
+				{
+					"$numberInt": "45"
+				},
+				{
+					"$numberInt": "60"
+				},
+				{
+					"$numberInt": "75"
+				},
+				{
+					"$numberInt": "90"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "150000"
+				},
+				{
+					"$numberInt": "750000"
+				},
+				{
+					"$numberInt": "2500000"
+				},
+				{
+					"$numberInt": "7500000"
+				},
+				{
+					"$numberInt": "20000000"
+				},
+				{
+					"$numberInt": "50000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "14"
+			},
+			"Tiers": {
+				"$numberInt": "4"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "5"
+				},
+				{
+					"$numberInt": "10"
+				},
+				{
+					"$numberInt": "15"
+				},
+				{
+					"$numberInt": "20"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "500000"
+				},
+				{
+					"$numberInt": "1500000"
+				},
+				{
+					"$numberInt": "5000000"
+				},
+				{
+					"$numberInt": "10000000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "15"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "20"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "50000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "24"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"TierUnlocks": [
+				{
+					"$numberInt": "8"
+				}
+			],
+			"Costs": [
+				{
+					"$numberInt": "75000"
+				}
+			]
+		},
+		{
+			"Type": {
+				"$numberInt": "25"
+			},
+			"Tiers": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"$numberInt": "25000000"
+				}
+			]
+		}
+	]
+}

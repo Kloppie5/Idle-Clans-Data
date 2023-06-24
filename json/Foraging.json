@@ -1,0 +1,220 @@
+{
+	"_id": {
+		"$oid": "61e288886a01a4c098c1af4a"
+	},
+	"Items": [
+		{
+			"Name": "nettle",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "15.0"
+			},
+			"ItemReward": {
+				"$numberInt": "118"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "kiwi",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "7000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "20.0"
+			},
+			"ItemReward": {
+				"$numberInt": "165"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "onion",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "25.0"
+			},
+			"ItemReward": {
+				"$numberInt": "138"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "magical_flax",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "8000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "273"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "blueberries",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "8000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "36.0"
+			},
+			"ItemReward": {
+				"$numberInt": "122"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "enchanted_flax",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "8500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "44.0"
+			},
+			"ItemReward": {
+				"$numberInt": "274"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "porcini",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "125"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "cursed_flax",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "10000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "80.0"
+			},
+			"ItemReward": {
+				"$numberInt": "275"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "seaweed",
+			"Skill": {
+				"$numberInt": "14"
+			},
+			"LevelRequirement": {
+				"$numberInt": "90"
+			},
+			"BaseTime": {
+				"$numberDouble": "12500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "115.0"
+			},
+			"ItemReward": {
+				"$numberInt": "399"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		}
+	]
+}

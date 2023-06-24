@@ -1,0 +1,411 @@
+{
+	"_id": {
+		"$oid": "634ab6c34f8b7033690d58ed"
+	},
+	"Items": [
+		{
+			"Type": {
+				"$numberInt": "16"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_get_up_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "50"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "1"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "60"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "2"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "60"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "3"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "60"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "4"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "60"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "5"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "50"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "25000"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "17"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_strength_in_numbers_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "1"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "2"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "3"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "4"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "5"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "30"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "12500"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "18"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_bigger_bottles_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "25"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "19"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "30000"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "19"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_group_effort_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "1"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "40"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "2"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "40"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "3"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "40"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "4"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "40"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "5"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "50"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "5000"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "20"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_an_offer_they_cant_refuse_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "10"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "17"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "80"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "80"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "15"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "75"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "50000"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "21"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_yoink_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "15"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "16"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "60"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "17500"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "22"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_bullseye_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "20"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "4"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "75"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "20000"
+			}
+		},
+		{
+			"Type": {
+				"$numberInt": "23"
+			},
+			"TierDescriptionLocKeys": [
+				"clan_upgrade_gatherers_desc"
+			],
+			"TierUnlocks": [
+				{
+					"$numberInt": "5"
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Requirements": [
+						{
+							"$numberInt": "70"
+						}
+					]
+				}
+			],
+			"ClanCreditCost": {
+				"$numberInt": "22500"
+			}
+		}
+	]
+}

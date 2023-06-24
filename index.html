@@ -78,106 +78,111 @@
   </head>
 
   <body>
-    <h1> Clan Upgrades </h1>
-    <div id="clanUpgrades"></div>
-    <script>
-      function populateClanUpgrades(clanUpgrades) {
-        var clanUpgradesDiv = $("#clanUpgrades");
-        for ( clanUpgrade of clanUpgrades.Items ) {
-          var clanUpgradeDiv = $("<div></div>");
-          clanUpgradeDiv.append(clanUpgrade.TierDescriptionLocKeys[0] + "<br>");
-          clanUpgradeDiv.append("Credits: " + clanUpgrade.ClanCreditCost + "<br>");
-          for ( skillRequirement of clanUpgrade.SkillRequirements )
-            clanUpgradeDiv.append(skillNames[skillRequirement.Skill] + ": " + skillRequirement.Requirements[0] + "<br>");
-          clanUpgradeDiv.append("Type: " + clanUpgrade.Type + "<br>");
-          clanUpgradeDiv.append("Tier Unlock: " + clanUpgrade.TierUnlocks[0] + "<br>");
-          clanUpgradesDiv.append(clanUpgradeDiv);
+    <div class="tab" id="leaderboards">
+      
+    </div>
+    <div class="tab" id="configstuff" style="display: none;">
+      <h1> Clan Upgrades </h1>
+      <div id="clanUpgrades"></div>
+      <script>
+        function populateClanUpgrades(clanUpgrades) {
+          var clanUpgradesDiv = $("#clanUpgrades");
+          for ( clanUpgrade of clanUpgrades.Items ) {
+            var clanUpgradeDiv = $("<div></div>");
+            clanUpgradeDiv.append(clanUpgrade.TierDescriptionLocKeys[0] + "<br>");
+            clanUpgradeDiv.append("Credits: " + clanUpgrade.ClanCreditCost + "<br>");
+            for ( skillRequirement of clanUpgrade.SkillRequirements )
+              clanUpgradeDiv.append(skillNames[skillRequirement.Skill] + ": " + skillRequirement.Requirements[0] + "<br>");
+            clanUpgradeDiv.append("Type: " + clanUpgrade.Type + "<br>");
+            clanUpgradeDiv.append("Tier Unlock: " + clanUpgrade.TierUnlocks[0] + "<br>");
+            clanUpgradesDiv.append(clanUpgradeDiv);
+          }
         }
-      }
-    </script>
+      </script>
 
-    <h1> Houses </h1>
-    <div id="houses"></div>
-    <script>
-      function populateHouses(houses) {
-        var housesDiv = $("#houses");
-        for ( house of houses.Items ) {
-          var houseDiv = $("<div></div>");
-          houseDiv.append(house.Name + "<br>");
-          houseDiv.append(house.Description + "<br>");
-          houseDiv.append("Credits: " + house.ClanCreditCost + "<br>");
-          for ( skillRequirement of house.SkillRequirements )
-            houseDiv.append(skillNames[skillRequirement.Skill] + ": " + skillRequirement.Level + "<br>");
-          houseDiv.append("Global Skilling Boost: " + house.GlobalSkillingBoost + "<br>");
-          for ( cost of house.Costs )
-            houseDiv.append(itemNames[cost.Item] + ": " + cost.Amount + "<br>");
-          housesDiv.append(houseDiv);
+      <h1> Houses </h1>
+      <div id="houses"></div>
+      <script>
+        function populateHouses(houses) {
+          var housesDiv = $("#houses");
+          for ( house of houses.Items ) {
+            var houseDiv = $("<div></div>");
+            houseDiv.append(house.Name + "<br>");
+            houseDiv.append(house.Description + "<br>");
+            houseDiv.append("Credits: " + house.ClanCreditCost + "<br>");
+            for ( skillRequirement of house.SkillRequirements )
+              houseDiv.append(skillNames[skillRequirement.Skill] + ": " + skillRequirement.Level + "<br>");
+            houseDiv.append("Global Skilling Boost: " + house.GlobalSkillingBoost + "<br>");
+            for ( cost of house.Costs )
+              houseDiv.append(itemNames[cost.Item] + ": " + cost.Amount + "<br>");
+            housesDiv.append(houseDiv);
+          }
         }
-      }
-    </script>
+      </script>
 
-    <h1> Potion Data </h1>
-    <div id="potionData"></div>
-    <script>
-      function populatePotionData(potionData) {
-        var potionDataDiv = $("#potionData");
-        for ( potion of potionData.Items ) {
-          var potionDiv = $("<div></div>");
-          if ( "PotionId" in potion )
-            potionDiv.append("Id: " + potion.PotionId + "<br>");
-          if ( "PotionType" in potion )
-            potionDiv.append("Type: " + potion.PotionType + "<br>");
-          if ( "Duration" in potion )
-            potionDiv.append("Duration: " + potion.Duration + "<br>");
-          if ( "EffectStrengthPercentage" in potion )
-            potionDiv.append("Strength: " + potion.EffectStrengthPercentage + "<br>");
-          if ( "ChanceOfTriggeringEffect" in potion )
-            potionDiv.append("Chance: " + potion.ChanceOfTriggeringEffect + "<br>");
-          potionDataDiv.append(potionDiv);
+      <h1> Potion Data </h1>
+      <div id="potionData"></div>
+      <script>
+        function populatePotionData(potionData) {
+          var potionDataDiv = $("#potionData");
+          for ( potion of potionData.Items ) {
+            var potionDiv = $("<div></div>");
+            if ( "PotionId" in potion )
+              potionDiv.append("Id: " + potion.PotionId + "<br>");
+            if ( "PotionType" in potion )
+              potionDiv.append("Type: " + potion.PotionType + "<br>");
+            if ( "Duration" in potion )
+              potionDiv.append("Duration: " + potion.Duration + "<br>");
+            if ( "EffectStrengthPercentage" in potion )
+              potionDiv.append("Strength: " + potion.EffectStrengthPercentage + "<br>");
+            if ( "ChanceOfTriggeringEffect" in potion )
+              potionDiv.append("Chance: " + potion.ChanceOfTriggeringEffect + "<br>");
+            potionDataDiv.append(potionDiv);
+          }
         }
-      }
-    </script>
+      </script>
 
-    <h1> Shop Items </h1>
-    <div id="shopItems"></div>
-    <script>
-      function populateShopItems(shopItems) {
-        var shopItemsDiv = document.getElementById("shopItems");
-        for (var i = 0; i < shopItems.Items.length; i++) {
-          var shopItem = shopItems.Items[i];
-          var shopItemDiv = document.createElement("div");
-          shopItemDiv.innerHTML = shopItem.Name;
-          shopItemsDiv.appendChild(shopItemDiv);
+      <h1> Shop Items </h1>
+      <div id="shopItems"></div>
+      <script>
+        function populateShopItems(shopItems) {
+          var shopItemsDiv = document.getElementById("shopItems");
+          for (var i = 0; i < shopItems.Items.length; i++) {
+            var shopItem = shopItems.Items[i];
+            var shopItemDiv = document.createElement("div");
+            shopItemDiv.innerHTML = shopItem.Name;
+            shopItemsDiv.appendChild(shopItemDiv);
+          }
         }
-      }
-    </script>
+      </script>
 
-    <h1> Tasks </h1>
-    <div id="tasks"></div>
-    <script>
-      function populateTasks(tasks) {
-        var tasksDiv = document.getElementById("tasks");
-        for (var i = 0; i < tasks.Items.length; i++) {
-          var task = tasks.Items[i];
-          var taskDiv = document.createElement("div");
-          taskDiv.innerHTML = task.Name;
-          tasksDiv.appendChild(taskDiv);
+      <h1> Tasks </h1>
+      <div id="tasks"></div>
+      <script>
+        function populateTasks(tasks) {
+          var tasksDiv = document.getElementById("tasks");
+          for (var i = 0; i < tasks.Items.length; i++) {
+            var task = tasks.Items[i];
+            var taskDiv = document.createElement("div");
+            taskDiv.innerHTML = task.Name;
+            tasksDiv.appendChild(taskDiv);
+          }
         }
-      }
-    </script>
+      </script>
 
-    <h1> Upgrades </h1>
-    <div id="upgrades"></div>
-    <script>
-      function populateUpgrades(upgrades) {
-        var upgradesDiv = document.getElementById("upgrades");
-        for (var i = 0; i < upgrades.Items.length; i++) {
-          var upgrade = upgrades.Items[i];
-          var upgradeDiv = document.createElement("div");
-          upgradeDiv.innerHTML = upgrade.Name;
-          upgradesDiv.appendChild(upgradeDiv);
+      <h1> Upgrades </h1>
+      <div id="upgrades"></div>
+      <script>
+        function populateUpgrades(upgrades) {
+          var upgradesDiv = document.getElementById("upgrades");
+          for (var i = 0; i < upgrades.Items.length; i++) {
+            var upgrade = upgrades.Items[i];
+            var upgradeDiv = document.createElement("div");
+            upgradeDiv.innerHTML = upgrade.Name;
+            upgradesDiv.appendChild(upgradeDiv);
+          }
         }
-      }
-    </script>
+      </script>
+    </div>
   </body>
 </html>

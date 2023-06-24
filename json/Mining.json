@@ -1,0 +1,244 @@
+{
+	"_id": {
+		"$oid": "61b1fbb99b139e63e8fa85f4"
+	},
+	"Items": [
+		{
+			"Name": "copper_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "7.5"
+			},
+			"ItemReward": {
+				"$numberInt": "29"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "tin_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "7.5"
+			},
+			"ItemReward": {
+				"$numberInt": "28"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "iron_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "12.0"
+			},
+			"ItemReward": {
+				"$numberInt": "30"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "silver_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "18.5"
+			},
+			"ItemReward": {
+				"$numberInt": "32"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "coal_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "24.0"
+			},
+			"ItemReward": {
+				"$numberInt": "31"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "gold_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "45"
+			},
+			"BaseTime": {
+				"$numberDouble": "21000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "75.0"
+			},
+			"ItemReward": {
+				"$numberInt": "33"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "platinum_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "18000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "78.0"
+			},
+			"ItemReward": {
+				"$numberInt": "39"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "meteorite_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "26000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "125.0"
+			},
+			"ItemReward": {
+				"$numberInt": "41"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "diamond_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "29500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "148.0"
+			},
+			"ItemReward": {
+				"$numberInt": "378"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "titanium_ore",
+			"Skill": {
+				"$numberInt": "12"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "35000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "180.0"
+			},
+			"ItemReward": {
+				"$numberInt": "42"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		}
+	]
+}

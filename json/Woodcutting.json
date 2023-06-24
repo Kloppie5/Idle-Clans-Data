@@ -1,0 +1,241 @@
+{
+	"_id": {
+		"$oid": "6044eb02fbd98f66a334d942"
+	},
+	"Items": [
+		{
+			"Name": "spruce",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "7.5"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "pine",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "5000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "14.0"
+			},
+			"ItemReward": {
+				"$numberInt": "1"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "oak",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "17.5"
+			},
+			"ItemReward": {
+				"$numberInt": "6"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "maple",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "6500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "20.0"
+			},
+			"ItemReward": {
+				"$numberInt": "7"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "teak",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "8000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "25.0"
+			},
+			"ItemReward": {
+				"$numberInt": "8"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "chestnut",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "10000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "2"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "mahogany",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "12500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "9"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "yew",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "15000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "67.5"
+			},
+			"ItemReward": {
+				"$numberInt": "10"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "redwood",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "17500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "90.0"
+			},
+			"ItemReward": {
+				"$numberInt": "406"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "magical",
+			"Skill": {
+				"$numberInt": "8"
+			},
+			"LevelRequirement": {
+				"$numberInt": "90"
+			},
+			"BaseTime": {
+				"$numberDouble": "20000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "110.0"
+			},
+			"ItemReward": {
+				"$numberInt": "407"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			}
+		}
+	]
+}

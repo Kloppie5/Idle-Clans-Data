@@ -1,0 +1,452 @@
+{
+	"_id": {
+		"$oid": "61fe5fdede116bd96ca253ab"
+	},
+	"Items": [
+		{
+			"Name": "guild_house_1",
+			"Description": "guild_house_1_description",
+			"ClanCreditCost": {
+				"$numberInt": "100"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "5000000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "20"
+					},
+					"Amount": {
+						"$numberInt": "2500"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "2500"
+					}
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Level": {
+						"$numberInt": "25"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Level": {
+						"$numberInt": "20"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Level": {
+						"$numberInt": "25"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Level": {
+						"$numberInt": "25"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Level": {
+						"$numberInt": "15"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Level": {
+						"$numberInt": "25"
+					}
+				}
+			],
+			"GlobalSkillingBoost": {
+				"$numberInt": "5"
+			},
+			"InventorySpace": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"Name": "guild_house_2",
+			"Description": "guild_house_2_description",
+			"ClanCreditCost": {
+				"$numberInt": "500"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "7500000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "21"
+					},
+					"Amount": {
+						"$numberInt": "5500"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "4500"
+					}
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Level": {
+						"$numberInt": "45"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Level": {
+						"$numberInt": "35"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Level": {
+						"$numberInt": "45"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Level": {
+						"$numberInt": "45"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Level": {
+						"$numberInt": "30"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Level": {
+						"$numberInt": "45"
+					}
+				}
+			],
+			"GlobalSkillingBoost": {
+				"$numberInt": "10"
+			},
+			"InventorySpace": {
+				"$numberInt": "8"
+			}
+		},
+		{
+			"Name": "guild_house_3",
+			"Description": "guild_house_3_description",
+			"ClanCreditCost": {
+				"$numberInt": "2000"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "20000000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "24"
+					},
+					"Amount": {
+						"$numberInt": "12000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "10000"
+					}
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Level": {
+						"$numberInt": "65"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Level": {
+						"$numberInt": "50"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Level": {
+						"$numberInt": "60"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Level": {
+						"$numberInt": "60"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Level": {
+						"$numberInt": "50"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Level": {
+						"$numberInt": "65"
+					}
+				}
+			],
+			"GlobalSkillingBoost": {
+				"$numberInt": "15"
+			},
+			"InventorySpace": {
+				"$numberInt": "12"
+			}
+		},
+		{
+			"Name": "guild_house_4",
+			"Description": "guild_house_4_description",
+			"ClanCreditCost": {
+				"$numberInt": "10000"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "50000000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "22"
+					},
+					"Amount": {
+						"$numberInt": "20000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "15000"
+					}
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Level": {
+						"$numberInt": "75"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Level": {
+						"$numberInt": "65"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Level": {
+						"$numberInt": "70"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Level": {
+						"$numberInt": "70"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Level": {
+						"$numberInt": "60"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Level": {
+						"$numberInt": "75"
+					}
+				}
+			],
+			"GlobalSkillingBoost": {
+				"$numberInt": "20"
+			},
+			"InventorySpace": {
+				"$numberInt": "18"
+			}
+		},
+		{
+			"Name": "guild_house_5",
+			"Description": "guild_house_5_description",
+			"ClanCreditCost": {
+				"$numberInt": "50000"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "19"
+					},
+					"Amount": {
+						"$numberInt": "100000000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "27"
+					},
+					"Amount": {
+						"$numberInt": "50000"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "40000"
+					}
+				}
+			],
+			"SkillRequirements": [
+				{
+					"Skill": {
+						"$numberInt": "8"
+					},
+					"Level": {
+						"$numberInt": "90"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "10"
+					},
+					"Level": {
+						"$numberInt": "85"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "12"
+					},
+					"Level": {
+						"$numberInt": "90"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "13"
+					},
+					"Level": {
+						"$numberInt": "85"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "14"
+					},
+					"Level": {
+						"$numberInt": "80"
+					}
+				},
+				{
+					"Skill": {
+						"$numberInt": "9"
+					},
+					"Level": {
+						"$numberInt": "95"
+					}
+				}
+			],
+			"GlobalSkillingBoost": {
+				"$numberInt": "25"
+			},
+			"InventorySpace": {
+				"$numberInt": "24"
+			}
+		}
+	]
+}

@@ -1,0 +1,7224 @@
+{
+	"_id": {
+		"$oid": "61bcea5aa7b13989827b5c09"
+	},
+	"Items": [
+		{
+			"Name": "turkey",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "-42"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "-25"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "4000"
+			},
+			"EnemyRespawnTime": {
+				"$numberInt": "2000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "4"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.05"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "fox",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "2"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "3"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "3"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "2500"
+			},
+			"EnemyHealth": {
+				"$numberInt": "6"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "40.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "35"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "126"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "231"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "238"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.06"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "wolf",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "5"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "4"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "5"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "2"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "3"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "2500"
+			},
+			"EnemyHealth": {
+				"$numberInt": "8"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "126"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "163"
+					},
+					"Weight": {
+						"$numberDouble": "4.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "0.225"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "231"
+					},
+					"Weight": {
+						"$numberDouble": "0.9"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "238"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.065"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "boar",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "4"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "4"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "8"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "2"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "3"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "7"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "6"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "10"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "55"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "231"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "238"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.07"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "bear",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "10"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "12"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "14"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "7"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "8"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "4"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "8"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3500"
+			},
+			"EnemyHealth": {
+				"$numberInt": "14"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "20.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "163"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "165"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "225"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "231"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "238"
+					},
+					"Weight": {
+						"$numberDouble": "0.85"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "168"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "218"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.08"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "6"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "woods",
+	"SortOrder": {
+		"$numberInt": "0"
+	}
+}
+{
+	"_id": {
+		"$oid": "61bcea89a7b13989827b5c0a"
+	},
+	"Items": [
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "scorpion",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "12"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "14"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "10"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "18"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "14"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "3"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "4000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "16"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "snake",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "16"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "19"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "6"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "15"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "16"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "8"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "6"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3750"
+			},
+			"EnemyHealth": {
+				"$numberInt": "18"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.125"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "0.45"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "crocodile",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "6"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "13"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "13"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "4"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "4"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "15"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "16"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "16"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "1"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "20"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.135"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "0.65"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "0.55"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "goblin",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "11"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "13"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "11"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "13"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "15"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "10"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "1"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "22"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "20.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "0.9"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "cave_dweller",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "16"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "18"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "15"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "17"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "18"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "20"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "25"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "40.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.175"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "0.85"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "0.95"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "orange_dragon",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "22"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "24"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "25"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "33"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "29"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "30"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "18"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "28"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "30"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "20.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "3"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "226"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "232"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "239"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "246"
+					},
+					"Weight": {
+						"$numberDouble": "3.3"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "cave",
+	"SortOrder": {
+		"$numberInt": "1"
+	}
+}
+{
+	"_id": {
+		"$oid": "61def8381446e471889a8402"
+	},
+	"Items": [
+		{
+			"TaskId": {
+				"$numberInt": "10"
+			},
+			"Name": "troll",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "22"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "30"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "30"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "27"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "33"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "31"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "22"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "24"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "32"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "268"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.55"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.05"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.05"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "11"
+			},
+			"Name": "wandering_warrior",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "31"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "35"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "25"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "31"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "27"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "25"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "14"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "4"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "34"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "271"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.575"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.12"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.055"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.055"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "12"
+			},
+			"Name": "druid",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "5"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "6"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "24"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "39"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "25"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "30"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "12"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "18"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "36"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "270"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "282"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.585"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.13"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.06"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.06"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "393"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "13"
+			},
+			"Name": "gorilla",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "36"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "36"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "34"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "32"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "27"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "29"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "30"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "4"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "38"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "267"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.59"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.13"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.65"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.65"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.065"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.065"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "390"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "14"
+			},
+			"Name": "giant",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "40"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "41"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "40"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "33"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "31"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "33"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "31"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "27"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "40"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "272"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.595"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.135"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.7"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.7"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.07"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.07"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "15"
+			},
+			"Name": "green_dragon",
+			"Skill": {
+				"$numberInt": "1"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "45"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "43"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "40"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "37"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "38"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "35"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "39"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "44"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "269"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "127"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "227"
+					},
+					"Weight": {
+						"$numberDouble": "0.145"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "233"
+					},
+					"Weight": {
+						"$numberDouble": "0.8"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "240"
+					},
+					"Weight": {
+						"$numberDouble": "0.8"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "247"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.075"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.075"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "wilderness",
+	"SortOrder": {
+		"$numberInt": "2"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e1c3b86988bf1344ca1fab"
+	},
+	"Items": [
+		{
+			"TaskId": {
+				"$numberInt": "16"
+			},
+			"Name": "ghost",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "46"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "44"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "37"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "36"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "35"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "36"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "46"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "267"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "128"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.55"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.05"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.075"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "17"
+			},
+			"Name": "zombie",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "46"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "46"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "45"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "41"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "38"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "37"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "37"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "36"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "48"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "270"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.56"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.055"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.08"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "18"
+			},
+			"Name": "possessed_bear",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "47"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "50"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "44"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "42"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "41"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "39"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "39"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "38"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "1"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "50"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "269"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.65"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.06"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.45"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.085"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "19"
+			},
+			"Name": "witch",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "11"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "8"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "32"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "49"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "35"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "42"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "25"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "32"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "45"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "4"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "52"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "271"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "282"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "25.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.7"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.065"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.55"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.09"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "391"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "20"
+			},
+			"Name": "demon",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "53"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "54"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "54"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "47"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "44"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "49"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "44"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "46"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "3"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "54"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "272"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.07"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.55"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.095"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "21"
+			},
+			"Name": "red_dragon",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "56"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "58"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "55"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "51"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "53"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "54"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "49"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "48"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "56"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "270"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "129"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.8"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.275"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "228"
+					},
+					"Weight": {
+						"$numberDouble": "0.075"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "234"
+					},
+					"Weight": {
+						"$numberDouble": "0.65"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "241"
+					},
+					"Weight": {
+						"$numberDouble": "0.6"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "248"
+					},
+					"Weight": {
+						"$numberDouble": "2.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "381"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "haunted_graveyard",
+	"SortOrder": {
+		"$numberInt": "3"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e1c5e46988bf1344ca1fac"
+	},
+	"Items": [
+		{
+			"TaskId": {
+				"$numberInt": "22"
+			},
+			"Name": "mad_wizard",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "24"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "25"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "55"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "70"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "66"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "74"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "65"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "55"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "62"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "4"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "60"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "272"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "283"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.75"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.2"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.02"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "23"
+			},
+			"Name": "vampire",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "65"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "68"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "66"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "71"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "68"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "72"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "75"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "65"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "65"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "271"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.024"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.8"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.21"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.11"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "24"
+			},
+			"Name": "werewolf",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "75"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "76"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "70"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "78"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "83"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "81"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "75"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "74"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "3"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "70"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "270"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "111"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "40"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.028"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.85"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.22"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.12"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "25"
+			},
+			"Name": "dark_wizard",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "42"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "44"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "72"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "82"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "84"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "87"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "86"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "75"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "88"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "1"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "75"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "269"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "283"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "110"
+					},
+					"Weight": {
+						"$numberDouble": "25.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.032"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.45"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.35"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.9"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.23"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.13"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "392"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "26"
+			},
+			"Name": "cerberus",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "81"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "84"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "83"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "89"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "94"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "92"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "95"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "74"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "80"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "268"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "112"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "120"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.07"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.036"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.4"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.95"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.24"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.14"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.45"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.45"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "27"
+			},
+			"Name": "black_dragon",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "89"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "91"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "87"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "94"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "97"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "98"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "91"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "96"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "90"
+			},
+			"CanBeTeamed": true,
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "267"
+					},
+					"Weight": {
+						"$numberDouble": "0.3"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "112"
+					},
+					"Weight": {
+						"$numberDouble": "50.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200"
+					},
+					"Weight": {
+						"$numberDouble": "30.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "229"
+					},
+					"Weight": {
+						"$numberDouble": "0.075"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "130"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.04"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.45"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.25"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "0.15"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "235"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "242"
+					},
+					"Weight": {
+						"$numberDouble": "0.5"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "249"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"Weight": {
+						"$numberDouble": "0.1"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"Weight": {
+						"$numberDouble": "0.025"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "uncharted_grounds",
+	"SortOrder": {
+		"$numberInt": "4"
+	}
+}
+{
+	"_id": {
+		"$oid": "62737ebe2fc91c3c154c5622"
+	},
+	"Items": [
+		{
+			"TaskId": {
+				"$numberInt": "28"
+			},
+			"Name": "griffin",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "265"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "135"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "210"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "75"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "105"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "190"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "175"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "180"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "4"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "440"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "267"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "13.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "243"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "236"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "29"
+			},
+			"Name": "devil",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "265"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "135"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "210"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "125"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "75"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "190"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "175"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "180"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "3"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "390"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "268"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "13.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "243"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "236"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "30"
+			},
+			"Name": "hades",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "175"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "210"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "35"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "95"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "145"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "140"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "180"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "1"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "350"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "269"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "15.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "389"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "31"
+			},
+			"Name": "zeus",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "175"
+			},
+			"EnemyMagicLevel": {
+				"$numberInt": "210"
+			},
+			"EnemyMagicAccuracyBonus": {
+				"$numberInt": "115"
+			},
+			"EnemyMagicStrengthBonus": {
+				"$numberInt": "55"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "145"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "140"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "180"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "6"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "5"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "380"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "270"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "389"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "32"
+			},
+			"Name": "medusa",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "175"
+			},
+			"EnemyArcheryLevel": {
+				"$numberInt": "195"
+			},
+			"EnemyArcheryAccuracyBonus": {
+				"$numberInt": "120"
+			},
+			"EnemyArcheryStrengthBonus": {
+				"$numberInt": "77"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "155"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "140"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "180"
+			},
+			"UsedAttackStyle": {
+				"$numberInt": "5"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "2"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "2500"
+			},
+			"EnemyHealth": {
+				"$numberInt": "425"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "271"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "13.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "243"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "236"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "33"
+			},
+			"Name": "chimera",
+			"Skill": {
+				"$numberInt": "6"
+			},
+			"EnemyRigourLevel": {
+				"$numberInt": "190"
+			},
+			"EnemyStrengthLevel": {
+				"$numberInt": "165"
+			},
+			"EnemyDefenceLevel": {
+				"$numberInt": "220"
+			},
+			"EnemyStrengthBonus": {
+				"$numberInt": "35"
+			},
+			"EnemyAccuracyBonus": {
+				"$numberInt": "135"
+			},
+			"EnemyDefenceBonus": {
+				"$numberInt": "190"
+			},
+			"EnemyArcheryDefenceBonus": {
+				"$numberInt": "185"
+			},
+			"EnemyMagicDefenceBonus": {
+				"$numberInt": "145"
+			},
+			"AttackStyleWeakness": {
+				"$numberInt": "6"
+			},
+			"EnemyAttackInterval": {
+				"$numberInt": "3000"
+			},
+			"EnemyHealth": {
+				"$numberInt": "500"
+			},
+			"CanBeTeamed": true,
+			"ItemIdRequired": {
+				"$numberInt": "272"
+			},
+			"Loot": [
+				{
+					"ItemId": {
+						"$numberInt": "230"
+					},
+					"Weight": {
+						"$numberDouble": "1.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "47"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "19"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "20000"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "200000"
+					},
+					"Weight": {
+						"$numberDouble": "13.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "131"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "12"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "30"
+					},
+					"Weight": {
+						"$numberDouble": "10.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "400"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "10"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "25"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "402"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "16"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "404"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "5"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "15"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "137"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "401"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "125"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "403"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "50"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "100"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "405"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "45"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "75"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "8"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "900"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "9"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1750"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "406"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "400"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "407"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "75"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "300"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "39"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "125"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "500"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "41"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "110"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "415"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "42"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "100"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "350"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "161"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "800"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "157"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "500"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "155"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "200"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "550"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "275"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "150"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "250"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "245"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "750"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "1500"
+					},
+					"Weight": {
+						"$numberDouble": "3.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "382"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "2"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "4"
+					},
+					"Weight": {
+						"$numberDouble": "5.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "383"
+					},
+					"ItemAmountMin": {
+						"$numberInt": "1"
+					},
+					"ItemAmountMax": {
+						"$numberInt": "2"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "243"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				},
+				{
+					"ItemId": {
+						"$numberInt": "236"
+					},
+					"Weight": {
+						"$numberDouble": "2.0"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "valley_of_gods",
+	"SortOrder": {
+		"$numberInt": "5"
+	}
+}

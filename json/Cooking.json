@@ -1,0 +1,876 @@
+{
+	"_id": {
+		"$oid": "61e1cf9c6a01a4c098e40696"
+	},
+	"Items": [
+		{
+			"Name": "cooked_piranha",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "10.0"
+			},
+			"ItemReward": {
+				"$numberInt": "160"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "159"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "cooked_perch",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "3500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "16.0"
+			},
+			"ItemReward": {
+				"$numberInt": "102"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "4"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "cooked_mackerel",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "4000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "20.0"
+			},
+			"ItemReward": {
+				"$numberInt": "100"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "12"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "cooked_cod",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "26.0"
+			},
+			"ItemReward": {
+				"$numberInt": "164"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "163"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "cooked_trout",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"BaseTime": {
+				"$numberDouble": "5000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "33.0"
+			},
+			"ItemReward": {
+				"$numberInt": "104"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "13"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "cooked_salmon",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "105"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "14"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "cooked_carp",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "7500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "56.0"
+			},
+			"ItemReward": {
+				"$numberInt": "106"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "15"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "cooked_zander",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "10000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "80.0"
+			},
+			"ItemReward": {
+				"$numberInt": "158"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "157"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "cooked_pufferfish",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "12500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "105.0"
+			},
+			"ItemReward": {
+				"$numberInt": "162"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "161"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "9"
+			},
+			"Name": "cooked_anglerfish",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "17500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "155.0"
+			},
+			"ItemReward": {
+				"$numberInt": "156"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "155"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "fish",
+	"SortOrder": {
+		"$numberInt": "0"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e1d0af6988bf1344ca1fad"
+	},
+	"Items": [
+		{
+			"Name": "cooked_meat",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "2500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "114"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "110"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "cooked_giant_meat",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "4000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "115"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "111"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "cooked_quality_meat",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "120.0"
+			},
+			"ItemReward": {
+				"$numberInt": "116"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "112"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "cooked_superior_meat",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "90"
+			},
+			"BaseTime": {
+				"$numberDouble": "10000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "250.0"
+			},
+			"ItemReward": {
+				"$numberInt": "117"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "113"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "meat",
+	"SortOrder": {
+		"$numberInt": "1"
+	}
+}
+{
+	"_id": {
+		"$oid": "61e2b1b06988bf1344ca1fae"
+	},
+	"Items": [
+		{
+			"Name": "potato_soup",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "15"
+			},
+			"BaseTime": {
+				"$numberDouble": "2500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "140"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "132"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "meat_burger",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"BaseTime": {
+				"$numberDouble": "4000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "75.0"
+			},
+			"ItemReward": {
+				"$numberInt": "141"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "114"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "cod_soup",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "40"
+			},
+			"BaseTime": {
+				"$numberDouble": "5500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "150.0"
+			},
+			"ItemReward": {
+				"$numberInt": "143"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "164"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "132"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "blueberry_pie",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "6000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "200.0"
+			},
+			"ItemReward": {
+				"$numberInt": "144"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "122"
+					},
+					"Amount": {
+						"$numberInt": "10"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "salmon_salad",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "60"
+			},
+			"BaseTime": {
+				"$numberDouble": "7000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "250.0"
+			},
+			"ItemReward": {
+				"$numberInt": "145"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "105"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "132"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "porcini_soup",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "8000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "400.0"
+			},
+			"ItemReward": {
+				"$numberInt": "146"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "125"
+					},
+					"Amount": {
+						"$numberInt": "5"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "132"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "stew",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "550.0"
+			},
+			"ItemReward": {
+				"$numberInt": "559"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "132"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "133"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "116"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "power_pizza",
+			"Skill": {
+				"$numberInt": "11"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "10000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "750.0"
+			},
+			"ItemReward": {
+				"$numberInt": "148"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "158"
+					},
+					"Amount": {
+						"$numberInt": "3"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "162"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "116"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				},
+				{
+					"Item": {
+						"$numberInt": "138"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "dishes",
+	"SortOrder": {
+		"$numberInt": "2"
+	}
+}

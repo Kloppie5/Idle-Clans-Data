@@ -1,0 +1,1440 @@
+{
+	"_id": {
+		"$oid": "61b5ab92d59b85a45e9be206"
+	},
+	"Items": [
+		{
+			"Name": "bronze_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "49"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "bronze_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "50"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "bronze_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "20.0"
+			},
+			"ItemReward": {
+				"$numberInt": "51"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "bronze_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "52"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "34"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "bronze",
+	"SortOrder": {
+		"$numberInt": "0"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b5ad140153557aef6cb60a"
+	},
+	"Items": [
+		{
+			"Name": "iron_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "75.0"
+			},
+			"ItemReward": {
+				"$numberInt": "55"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "iron_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "56"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "iron_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "25.0"
+			},
+			"ItemReward": {
+				"$numberInt": "57"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "iron_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "58"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "35"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "iron",
+	"SortOrder": {
+		"$numberInt": "1"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b60e996e946df93be5b802"
+	},
+	"Items": [
+		{
+			"Name": "steel_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "35"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "90.0"
+			},
+			"ItemReward": {
+				"$numberInt": "61"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "steel_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "35"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "62"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "steel_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "35"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "30.0"
+			},
+			"ItemReward": {
+				"$numberInt": "63"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "steel_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "35"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "60.0"
+			},
+			"ItemReward": {
+				"$numberInt": "64"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "36"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "steel",
+	"SortOrder": {
+		"$numberInt": "3"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b60f446e946df93be5b803"
+	},
+	"Items": [
+		{
+			"Name": "silver_amulet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "68"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "37"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "silver_ring",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "67"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "37"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "silver_bracelet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "69"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "37"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "silver_earrings",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "30"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "35.0"
+			},
+			"ItemReward": {
+				"$numberInt": "70"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "37"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "silver",
+	"SortOrder": {
+		"$numberInt": "2"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b60fff6e946df93be5b804"
+	},
+	"Items": [
+		{
+			"Name": "gold_amulet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "72"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "38"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "gold_ring",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "71"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "38"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "gold_bracelet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "73"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "38"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "gold_earrings",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "3000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "40.0"
+			},
+			"ItemReward": {
+				"$numberInt": "74"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "38"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "gold",
+	"SortOrder": {
+		"$numberInt": "4"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b610566e946df93be5b805"
+	},
+	"Items": [
+		{
+			"Name": "platinum_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "150.0"
+			},
+			"ItemReward": {
+				"$numberInt": "75"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "platinum_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "100.0"
+			},
+			"ItemReward": {
+				"$numberInt": "76"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "platinum_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "50.0"
+			},
+			"ItemReward": {
+				"$numberInt": "77"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "platinum_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "55"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "100.0"
+			},
+			"ItemReward": {
+				"$numberInt": "78"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "43"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "platinum",
+	"SortOrder": {
+		"$numberInt": "5"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b6114d6e946df93be5b807"
+	},
+	"Items": [
+		{
+			"Name": "meteorite_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "210.0"
+			},
+			"ItemReward": {
+				"$numberInt": "81"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "meteorite_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "140.0"
+			},
+			"ItemReward": {
+				"$numberInt": "82"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "meteorite_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "84"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "meteorite_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "70"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "140.0"
+			},
+			"ItemReward": {
+				"$numberInt": "83"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "45"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "meteorite",
+	"SortOrder": {
+		"$numberInt": "6"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b6122f6e946df93be5b808"
+	},
+	"Items": [
+		{
+			"Name": "titanium_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "240.0"
+			},
+			"ItemReward": {
+				"$numberInt": "87"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "46"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "titanium_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "160.0"
+			},
+			"ItemReward": {
+				"$numberInt": "88"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "46"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "titanium_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "80.0"
+			},
+			"ItemReward": {
+				"$numberInt": "89"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "46"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "titanium_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "85"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "160.0"
+			},
+			"ItemReward": {
+				"$numberInt": "90"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "46"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "titanium",
+	"SortOrder": {
+		"$numberInt": "8"
+	}
+}
+{
+	"_id": {
+		"$oid": "61b613256e946df93be5b809"
+	},
+	"Items": [
+		{
+			"Name": "astronomical_platebody",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "3000.0"
+			},
+			"ItemReward": {
+				"$numberInt": "93"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "48"
+					},
+					"Amount": {
+						"$numberInt": "6"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "astronomical_platelegs",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "2000.0"
+			},
+			"ItemReward": {
+				"$numberInt": "94"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "48"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "astronomical_helmet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1000.0"
+			},
+			"ItemReward": {
+				"$numberInt": "95"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "48"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "astronomical_shield",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "95"
+			},
+			"BaseTime": {
+				"$numberDouble": "9000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "2000.0"
+			},
+			"ItemReward": {
+				"$numberInt": "96"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "48"
+					},
+					"Amount": {
+						"$numberInt": "4"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "astronomical",
+	"SortOrder": {
+		"$numberInt": "9"
+	}
+}
+{
+	"_id": {
+		"$oid": "62d78e9e007aec48b1da35ac"
+	},
+	"Items": [
+		{
+			"Name": "diamond_amulet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "375"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "379"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "diamond_ring",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "374"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "379"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "diamond_bracelet",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "376"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "379"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "diamond_earrings",
+			"Skill": {
+				"$numberInt": "13"
+			},
+			"LevelRequirement": {
+				"$numberInt": "75"
+			},
+			"BaseTime": {
+				"$numberDouble": "4500.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "70.0"
+			},
+			"ItemReward": {
+				"$numberInt": "377"
+			},
+			"ItemAmount": {
+				"$numberInt": "1"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "379"
+					},
+					"Amount": {
+						"$numberInt": "2"
+					}
+				}
+			]
+		}
+	],
+	"CustomId": "diamond",
+	"SortOrder": {
+		"$numberInt": "7"
+	}
+}

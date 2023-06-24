@@ -1,0 +1,310 @@
+{
+	"_id": {
+		"$oid": "61e29fb86a01a4c098ffadb2"
+	},
+	"Items": [
+		{
+			"Name": "potato",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "1"
+			},
+			"BaseTime": {
+				"$numberDouble": "30000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "75.0"
+			},
+			"ItemReward": {
+				"$numberInt": "132"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "126"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "1"
+			},
+			"Name": "carrot",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "10"
+			},
+			"BaseTime": {
+				"$numberDouble": "40000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "200.0"
+			},
+			"ItemReward": {
+				"$numberInt": "133"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "127"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "2"
+			},
+			"Name": "tomato",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "20"
+			},
+			"BaseTime": {
+				"$numberDouble": "60000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "300.0"
+			},
+			"ItemReward": {
+				"$numberInt": "134"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "128"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "3"
+			},
+			"Name": "cabbage",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "25"
+			},
+			"BaseTime": {
+				"$numberDouble": "60000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "325.0"
+			},
+			"ItemReward": {
+				"$numberInt": "135"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "129"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "4"
+			},
+			"Name": "strawberry",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "35"
+			},
+			"BaseTime": {
+				"$numberDouble": "90000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "500.0"
+			},
+			"ItemReward": {
+				"$numberInt": "136"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "130"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "5"
+			},
+			"Name": "watermelon",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "50"
+			},
+			"BaseTime": {
+				"$numberDouble": "120000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "850.0"
+			},
+			"ItemReward": {
+				"$numberInt": "137"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "131"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "6"
+			},
+			"Name": "grapes",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "65"
+			},
+			"BaseTime": {
+				"$numberDouble": "150000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1100.0"
+			},
+			"ItemReward": {
+				"$numberInt": "401"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "400"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "7"
+			},
+			"Name": "papaya",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "80"
+			},
+			"BaseTime": {
+				"$numberDouble": "165000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1250.0"
+			},
+			"ItemReward": {
+				"$numberInt": "403"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "402"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		},
+		{
+			"TaskId": {
+				"$numberInt": "8"
+			},
+			"Name": "dragonfruit",
+			"Skill": {
+				"$numberInt": "15"
+			},
+			"LevelRequirement": {
+				"$numberInt": "90"
+			},
+			"BaseTime": {
+				"$numberDouble": "180000.0"
+			},
+			"ExpReward": {
+				"$numberDouble": "1500.0"
+			},
+			"ItemReward": {
+				"$numberInt": "405"
+			},
+			"ItemAmount": {
+				"$numberInt": "5"
+			},
+			"Costs": [
+				{
+					"Item": {
+						"$numberInt": "404"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					}
+				}
+			]
+		}
+	]
+}

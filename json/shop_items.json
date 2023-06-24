@@ -1,0 +1,2462 @@
+{
+	"_id": {
+		"$oid": "623f32fa73d166106ed46cb4"
+	},
+	"Items": [
+		{
+			"EntityId": {
+				"$numberInt": "260"
+			},
+			"Cost": {
+				"$numberInt": "30"
+			},
+			"DescriptionLocalizationKey": "arrow_description",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "34"
+			},
+			"Cost": {
+				"$numberInt": "100"
+			},
+			"DescriptionLocalizationKey": "basic_smithing_desc",
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "51"
+			},
+			"Cost": {
+				"$numberInt": "350"
+			},
+			"DescriptionLocalizationKey": "bronze_armour_desc",
+			"CategoryType": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "49"
+			},
+			"Cost": {
+				"$numberInt": "1000"
+			},
+			"DescriptionLocalizationKey": "bronze_armour_desc",
+			"CategoryType": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "50"
+			},
+			"Cost": {
+				"$numberInt": "800"
+			},
+			"DescriptionLocalizationKey": "bronze_armour_desc",
+			"CategoryType": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "52"
+			},
+			"Cost": {
+				"$numberInt": "600"
+			},
+			"DescriptionLocalizationKey": "bronze_armour_desc",
+			"CategoryType": {
+				"$numberInt": "4"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "127"
+			},
+			"Cost": {
+				"$numberInt": "475"
+			},
+			"DescriptionLocalizationKey": "seed_description",
+			"CategoryType": {
+				"$numberInt": "5"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "245"
+			},
+			"Cost": {
+				"$numberInt": "120"
+			},
+			"DescriptionLocalizationKey": "basic_crafting_material_desc",
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "153"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "168"
+			},
+			"Cost": {
+				"$numberInt": "1000"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "152"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "169"
+			},
+			"Cost": {
+				"$numberInt": "1000"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "151"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "149"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "150"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "154"
+			},
+			"Cost": {
+				"$numberInt": "750"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "218"
+			},
+			"Cost": {
+				"$numberInt": "1000"
+			},
+			"DescriptionLocalizationKey": "bronze_weapon_desc",
+			"CategoryType": {
+				"$numberInt": "3"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "126"
+			},
+			"Cost": {
+				"$numberInt": "350"
+			},
+			"DescriptionLocalizationKey": "seed_description",
+			"CategoryType": {
+				"$numberInt": "5"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "159"
+			},
+			"Cost": {
+				"$numberInt": "20"
+			},
+			"DescriptionLocalizationKey": "basic_raw_food_desc",
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "453"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "16"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "472"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "16"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "491"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "16"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "510"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "16"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "454"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "4"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "473"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "4"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "492"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "4"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "511"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "4"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "455"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "19"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "474"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "19"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "493"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "19"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "512"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "19"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "456"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "9"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "475"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "9"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "494"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "9"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "513"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "9"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"EntityId": {
+				"$numberInt": "529"
+			},
+			"Cost": {
+				"$numberInt": "1000000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "7"
+			},
+			"MultipleItemEntries": []
+		},
+		{
+			"EntityId": {
+				"$numberInt": "530"
+			},
+			"Cost": {
+				"$numberInt": "2000000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "7"
+			},
+			"MultipleItemEntries": []
+		},
+		{
+			"EntityId": {
+				"$numberInt": "531"
+			},
+			"Cost": {
+				"$numberInt": "4000000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "7"
+			},
+			"MultipleItemEntries": []
+		},
+		{
+			"EntityId": {
+				"$numberInt": "532"
+			},
+			"Cost": {
+				"$numberInt": "10000000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "7"
+			},
+			"MultipleItemEntries": []
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "457"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "11"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "476"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "11"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "495"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "11"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "514"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "11"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "458"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "7"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "477"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "7"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "496"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "7"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "515"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "7"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "459"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "3"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "478"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "3"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "497"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "3"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "516"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "3"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "460"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "18"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "479"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "18"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "498"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "18"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "517"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "18"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "461"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "15"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "480"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "15"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "499"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "15"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "518"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "15"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "462"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "10"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "481"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "10"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "500"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "10"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "519"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "10"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "463"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "14"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "482"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "14"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "501"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "14"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "520"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "14"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "464"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "6"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "483"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "6"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "502"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "6"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "521"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "6"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "465"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "5"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "484"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "5"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "503"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "5"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "522"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "5"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "466"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "12"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "485"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "12"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "504"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "12"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "523"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "12"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "467"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "17"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "486"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "17"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "505"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "17"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "524"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "17"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "468"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "1"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "487"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "1"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "506"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "1"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "525"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "1"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "469"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "13"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "488"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "13"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "507"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "13"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "526"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "13"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "9"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "470"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "2"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "489"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "2"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "508"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "2"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "527"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "2"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"Cost": {
+				"$numberInt": "250000"
+			},
+			"RewardType": {
+				"$numberInt": "2"
+			},
+			"ShopType": {
+				"$numberInt": "2"
+			},
+			"CategoryType": {
+				"$numberInt": "8"
+			},
+			"MultipleItemEntries": [
+				{
+					"ItemId": {
+						"$numberInt": "471"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "500000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "8"
+							},
+							"Level": {
+								"$numberInt": "90"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "490"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "1000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "8"
+							},
+							"Level": {
+								"$numberInt": "100"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "509"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "2000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "8"
+							},
+							"Level": {
+								"$numberInt": "110"
+							}
+						}
+					]
+				},
+				{
+					"ItemId": {
+						"$numberInt": "528"
+					},
+					"Amount": {
+						"$numberInt": "1"
+					},
+					"Cost": {
+						"$numberInt": "5000000"
+					},
+					"SkillRequirements": [
+						{
+							"Skill": {
+								"$numberInt": "8"
+							},
+							"Level": {
+								"$numberInt": "120"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"EntityId": {
+				"$numberInt": "11"
+			},
+			"DescriptionLocalizationKey": "upgrade_auto_cook_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "4"
+			},
+			"DescriptionLocalizationKey": "upgrade_automatic_eating_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "5"
+			},
+			"DescriptionLocalizationKey": "upgrade_automatic_looting_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "1"
+			},
+			"DescriptionLocalizationKey": "upgrade_bank_space_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "25"
+			},
+			"DescriptionLocalizationKey": "boss_slayer_description",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "14"
+			},
+			"DescriptionLocalizationKey": "upgrade_combat_dodge_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "15"
+			},
+			"DescriptionLocalizationKey": "upgrade_combat_quest_boost_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "8"
+			},
+			"DescriptionLocalizationKey": "upgrade_farming_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "3"
+			},
+			"DescriptionLocalizationKey": "upgrade_fishing_boost_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "9"
+			},
+			"DescriptionLocalizationKey": "upgrade_foraging_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "7"
+			},
+			"DescriptionLocalizationKey": "upgrade_guild_quests_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"DescriptionLocalizationKey": "",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "6"
+			},
+			"DescriptionLocalizationKey": "upgrade_offline_progression_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "12"
+			},
+			"DescriptionLocalizationKey": "upgrade_plank_cost_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "13"
+			},
+			"DescriptionLocalizationKey": "upgrade_save_ammo_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "10"
+			},
+			"DescriptionLocalizationKey": "upgrade_smelting_cost_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "24"
+			},
+			"DescriptionLocalizationKey": "upgrade_teamwork_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "2"
+			}
+		},
+		{
+			"EntityId": {
+				"$numberInt": "2"
+			},
+			"DescriptionLocalizationKey": "upgrade_woodcutting_boost_desc",
+			"RewardType": {
+				"$numberInt": "1"
+			},
+			"ShopType": {
+				"$numberInt": "1"
+			},
+			"CategoryType": {
+				"$numberInt": "1"
+			}
+		}
+	]
+}
